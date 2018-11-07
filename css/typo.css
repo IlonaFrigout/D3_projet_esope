@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+@import url('https://fonts.googleapis.com/css?family=Advent+Pro|Sorts+Mill+Goudy');
+@import url('https://fonts.googleapis.com/css?family=Bad+Script');
+@import url('https://fonts.googleapis.com/css?family=Jura');
+
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Pinyon+Script');
+@import url('https://fonts.googleapis.com/css?family=Nothing+You+Could+Do');
+
+html {
+  font-size: 1em;
+}
+
+body {
+  font-family: 'Lobster', cursive;
+  font-weight: 400;
+  line-height: 1.45;
+}
+
+p {
+  margin-bottom: 0em;
+  color: #ffffff;
+}
+
+
+#section01 p {
+font-family: 'Sorts Mill Goudy', serif;
+color:#eacace;
+}
+#section02 p {
+font-family: 'Josefin Slab', serif;
+color:#9b2939;
+}
+
+#section03 p {
+font-family: 'Advent Pro', sans-serif;
+color:#f4f4f4;
+}
+
+#section04 p {
+font-family: 'Bad Script', cursive;
+color:#9b2939;
+}
+
+#section05 p {
+font-family: 'Jura', sans-serif;
+color:#eacace;
+}
+
+h4 {
+font-family: 'Pinyon Script', cursive;
+  margin-top: 0;
+  font-size: 3.998em;
+  text-align: center;
+  color: #4c3d3b;
+}
+ 
+h1{
+  font-family: 'Lobster', cursive;
+  margin-top: 0px;
+  font-size: 8em;
+  text-align: center;
+  color: #604344;
+} 
+h2 {
+font-family: 'Pinyon Script', cursive;
+  margin-top: 0;
+  font-size: 3.998em;
+  text-align: center;
+  color: #f4f4f4;
+}
+
+h3 {
+font-family: 'Nothing You Could Do', cursive;
+  margin-top: 0;
+  font-size: 3.998em;
+  text-align: center;
+  color: #604344;
+}
+
+h2 {font-size: 2em;}
+
+h3 {font-size: 2em;}
+
+h4 {font-size: 2em;}
+
+small, .font_small {font-size: 0.707em;}
